@@ -5,15 +5,8 @@
 
 **Notice**
 
-2022년 7월 기준 MeowRun 프로젝트는 아래와 같은 이유로 1명의 개발자가 운영 중이에요!
-
-- 팀원 A: 프로젝트 진행 중 헤드헌팅 스카웃 
-- 팀원 B: 프로젝트 중도 포기
-- **팀원 C: 프로젝트 진행 중, 개인 작업 병행**
-
-<details>
-
-<summary>Readme</summary>
+[기존 레포](https://github.com/DaeguDev/MeowRun) 에서 통합/이전 되었어요!
+현재 MeowRun 메인테이너: @developerasun @jshhhhh
 
 # :runner: MeowRun 소개
 
